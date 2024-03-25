@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Who Wants to be a Millionaire</string>
+    <string name="gameinstructions">
+        \n1. Start the game.\n
+        \n2. Choose the correct answer. \n
+        \n3. Once answer is confirmed, it cannot change. \n
+        \n4. Player can claim winning amount at any level by clicking prize money. \n
+        \n5. Correct answer will turn to green and wrong answers will turn to orange.\n
+    </string>
+    <string name="Proceed">proceed</string>
+    <string name="exit_toast_msg">You have exited the game, prize money lost.</string>
+    <string name="are_you_sure">\nIs that your final answer?\n\nLast chance to change your answer</string>
+    <string name="exit_game_title">Exit Game?</string>
+    <string name="confirmedAlready">Answer already confirmed. Cannot chance answer. \nPlease proceed to next question.</string>
+    <string name="confirmed">Answer confirmed, \nPlease proceed. </string>
+    <string name="confirmed_wrong">Wrong answer confirmed, \nPlease proceed. </string>
+    <string name="q1">The earth is approximately how many miles away from the Sun?</string>
+    <string name="q1a1">A. 93 million</string>
+    <string name="q1a2">B. 39 million</string>
+    <string name="q1a3">C. 9.3 million</string>
+    <string name="q1a4">D. 193 million</string>
+    <string name="q2">Which of the following men does not have a chemical element named after him? </string>
+    <string name="q2a1">A. Albert Einstein</string>
+    <string name="q2a2">B. Niels Bohr</string>
+    <string name="q2a3">C. Isaac Newton</string>
+    <string name="q2a4">D. Enrico Fermi</string>
+    <string name="q3">In the childrens book series, where is Paddington Bear originally from? </string>
+    <string name="q3a1">A. Peru</string>
+    <string name="q3a2">B. India</string>
+    <string name="q3a3">C. Canada</string>
+    <string name="q3a4">D. Iceland</string>
+    <string name="q4">What sort of animal is Walt Disneys Dumbo? </string>
+    <string name="q4a1">A. Deer</string>
+    <string name="q4a2">B. Rabbit</string>
+    <string name="q4a3">C. Donkey</string>
+    <string name="q4a4">D. Elephant</string>
+    <string name="q5">Queen Anne was the daughter of which English Monarch? </string>
+    <string name="q5a1">A. Victoria</string>
+    <string name="q5a2">B. Henry VIII</string>
+    <string name="q5a3">C. James II</string>
+    <string name="q5a4">D. William I</string>
+    <string name="q6">Which is the largest city in the USAs largest state by area? </string>
+    <string name="q6a1">A. Anchorage</string>
+    <string name="q6a2">B. Los Angles</string>
+    <string name="q6a3">C. New York</string>
+    <string name="q6a4">D. Dallas</string>
+    <string name="q7">which of these is not one of the American Triple Crown horse races? </string>
+    <string name="q7a1">A. Preakness Stakes</string>
+    <string name="q7a2">B. Kentucky Derby</string>
+    <string name="q7a3">C. Arlington Million</string>
+    <string name="q7a4">D. Belmont Stakes</string>
+    <string name="q8"> If you planted the seeds of Quercus robur, what would grow? </string>
+    <string name="q8a1">A. Trees</string>
+    <string name="q8a2">B. Flowers</string>
+    <string name="q8a3">C. Vegetables</string>
+    <string name="q8a4">D. Grain</string>
+    <string name="q9">Which continent is Ghana Located in? </string>
+    <string name="q9a1">A. Antarctica</string>
+    <string name="q9a2">B. Africa</string>
+    <string name="q9a3">C. South America</string>
+    <string name="q9a4">D. North America</string>
+    <string name="q10">Which Sesame Street Character is known as ‘The Grouch’?</string>
+    <string name="q10a1">A. Oscar</string>
+    <string name="q10a2">B. Sam</string>
+    <string name="q10a3">C. Grover</string>
+    <string name="q10a4">D. Bert</string>
+    <string name="money_1">$ 0</string>
+    <string name="money_2">$ 1000</string>
+    <string name="money_3">$ 2000</string>
+    <string name="money_4">$ 7500</string>
+    <string name="money_5">$ 15000</string>
+    <string name="money_6">$ 30000</string>
+    <string name="money_7">$ 50000</string>
+    <string name="money_8">$ 100000</string>
+    <string name="money_9">$ 500000</string>
+    <string name="money_10">$ 1000000</string>
+    <string name="you_won_the_">\nBetter luck next time!</string>
+    <string name="you_won_money">You have won $0</string>
+    <string name="claim_your_money">\n\nDo not want to continue?\n\nClick on prize money and claim it.</string>
+
+</resources>
